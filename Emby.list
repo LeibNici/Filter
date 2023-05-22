@@ -1,4 +1,4 @@
-#更新时间2023-01-09
+#更新时间2023-05-22
 #https://t.me/ddgksf2021
 
 # > 流媒体emby-nexitally服务器
@@ -128,4 +128,6 @@ DOMAIN,cc.ccemby.tk
 # > 流媒体Nebula服务器
 DOMAIN,direct.nebula-emby.com
 
-
+# > 流媒体剧狗服务器
+DOMAIN-SUFFIX,pug.ju.dog
+DOMAIN-SUFFIX,corgi.ju.dog
