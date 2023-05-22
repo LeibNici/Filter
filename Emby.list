@@ -129,8 +129,7 @@ DOMAIN,cc.ccemby.tk
 DOMAIN,direct.nebula-emby.com
 
 # > 流媒体剧狗服务器
-DOMAIN-SUFFIX,pug.ju.dog
-DOMAIN-SUFFIX,corgi.ju.dog
+DOMAIN-SUFFIX,ju.dog
 
 # > 流媒体orange服务器
 DOMAIN-SUFFIX,embytv.cf
