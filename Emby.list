@@ -120,7 +120,7 @@ DOMAIN-SUFFIX,gfwemby.org
 
 # > 流媒体垃圾影音服务器
 DOMAIN-SUFFIX,loseremby.org
-DOMAIN-SUFFIX,4837.emby.ml
+DOMAIN-SUFFIX,emby.ml
 
 # > 流媒体Cc服务器
 DOMAIN,cc.ccemby.tk
